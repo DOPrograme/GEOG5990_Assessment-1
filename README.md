@@ -4,3 +4,6 @@ So most of knowledge and reference of code from lessons. Many thanks to Professo
 This Portfolio presents a simple UML model to demonstrate agent-environment and agent-agent interactions.
 This UML model reads in.text as the environment data (grass) and creates two agents, one as a sheep and one as a wolf.
 Sheep eat grass, wolves eat sheep is their interactive behavior.
+Click Assessment1 folder to open GEOG5990 Assignment 1 Portfolio.
+Practice folder records the class exercises.
+
